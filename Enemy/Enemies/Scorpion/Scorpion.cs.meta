@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 7561c4a0c88c52340b9b1afc889a13f6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - data: {fileID: 11400000, guid: c948dd5208091524d8199e99ef7d9e0d, type: 2}
+  - player: {fileID: 1990770756180953478, guid: 6d179ed08d3fdf64eb2a5dc3dc5f6eac,
+      type: 3}
+  - projectileWeapon: {instanceID: 0}
+  - wallCheck: {instanceID: 0}
+  - edgeCheck: {instanceID: 0}
+  - playerCheck: {instanceID: 0}
+  - rearWallCheck: {instanceID: 0}
+  - rearEdgeCheck: {instanceID: 0}
+  - rbody: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - health: {instanceID: 0}
+  - sprite: {instanceID: 0}
+  - boxCollider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
